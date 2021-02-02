@@ -1,0 +1,13 @@
+C:\Users\Ariel\NovoBasico\bin\Debug\netcoreapp3.1\NovoBasico.exe
+C:\Users\Ariel\NovoBasico\bin\Debug\netcoreapp3.1\NovoBasico.deps.json
+C:\Users\Ariel\NovoBasico\bin\Debug\netcoreapp3.1\NovoBasico.runtimeconfig.json
+C:\Users\Ariel\NovoBasico\bin\Debug\netcoreapp3.1\NovoBasico.runtimeconfig.dev.json
+C:\Users\Ariel\NovoBasico\bin\Debug\netcoreapp3.1\NovoBasico.dll
+C:\Users\Ariel\NovoBasico\bin\Debug\netcoreapp3.1\NovoBasico.pdb
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.csprojAssemblyReference.cache
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.AssemblyInfoInputs.cache
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.AssemblyInfo.cs
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.dll
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.pdb
+C:\Users\Ariel\NovoBasico\obj\Debug\netcoreapp3.1\NovoBasico.genruntimeconfig.cache
